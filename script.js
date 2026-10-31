@@ -1,5 +1,5 @@
 // 1. After deploying your Google Apps Script, paste its Web App URL below.
-const SCRIPT_URL = "PASTE_YOUR_GOOGLE_APPS_SCRIPT_WEB_APP_URL_HERE";
+const SCRIPT_URL = "https://script.google.com/a/macros/vvm.edu.in/s/AKfycbzM81XupzHjeNOCGKK57VwR9jdvJGhcxToSEdbaPuaDeGtEY9TwWgFFJV_aHeDQZUclsg/exec";
 
 const form = document.getElementById("contactForm");
 const submitBtn = document.getElementById("submitBtn");
