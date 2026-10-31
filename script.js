@@ -1,5 +1,5 @@
 // 1. After deploying your Google Apps Script, paste its Web App URL below.
-const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbzsMVM69EBzrAz2W4o2hpesPgWUrORV696yKh0lDfm8XTaB97oT2fujR3cuhywyHuOq1g/exec";
+const SCRIPT_URL = "https://script.google.com/macros/s/AKfycby2zWHW-ozMfnM1xnSHxNGA6hc_dBolpCJICT5hK-UTxcXYd9kEPyiZRPcVKX720z41fQ/exec";
 
 const form = document.getElementById("contactForm");
 const submitBtn = document.getElementById("submitBtn");
